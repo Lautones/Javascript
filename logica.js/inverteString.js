@@ -17,3 +17,5 @@ let palavra = 'TFG ,atartnoc em';
 let palavraInvertida = invertePalavra(palavra);
 
 console.log(palavraInvertida);
+
+
