@@ -11,8 +11,6 @@ function eliminarRepetidos(arrayTeste){
                 j--;
             }
         
-            console.log(arrayTeste[j]);
-
         }
 
     }
