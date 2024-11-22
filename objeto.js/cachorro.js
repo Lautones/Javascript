@@ -10,7 +10,6 @@ var cachorro = {
         }
     }
 
-
 }
 
 let homemPresente = true;
